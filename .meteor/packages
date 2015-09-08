@@ -7,6 +7,7 @@
 meteor-platform
 
 urigo:angular
+angularui:angular-ui-router
 
 less
 nemo64:bootstrap
